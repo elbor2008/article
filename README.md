@@ -12,5 +12,5 @@ react v16 + redux + redux-thunk + react router + mock data
 	npm start
 # Partial Snapshot
 ![home](https://github.com/elbor2008/MarkdownPhotos/blob/master/article/home.PNG)
-
+<br/>
 ![header](https://github.com/elbor2008/MarkdownPhotos/blob/master/article/header.PNG)
